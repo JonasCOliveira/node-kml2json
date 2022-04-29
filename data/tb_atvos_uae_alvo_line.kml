@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tb_atvos_uae_alvo_line.kml</name>
+	<open>1</open>
+	<Schema name="tb_atvos_uae_1" id="tb_atvos_uae_1">
+		<SimpleField type="string" name="nome"></SimpleField>
+		<SimpleField type="string" name="empresa"></SimpleField>
+		<SimpleField type="string" name="buffer"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>tb_atvos_uae_alvo</name>
+		<open>1</open>
+		<Placemark id="tb_atvos_uae.6">
+			<ExtendedData>
+				<SchemaData schemaUrl="#tb_atvos_uae_1">
+					<SimpleData name="nome">UAE - Unidade Água Emendada</SimpleData>
+					<SimpleData name="empresa">Atvos</SimpleData>
+					<SimpleData name="buffer">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-52.25439999999999,-17.5465,0 -52.272,-17.5398,0 -52.2658,-17.5249,0 -52.2477,-17.5312,0 -52.25439999999999,-17.5465,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

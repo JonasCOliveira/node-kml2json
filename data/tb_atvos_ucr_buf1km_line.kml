@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tb_atvos_ucr_buf1km_line.kml</name>
+	<open>1</open>
+	<Schema name="tb_atvos_ucr_1" id="tb_atvos_ucr_1">
+		<SimpleField type="string" name="nome"></SimpleField>
+		<SimpleField type="string" name="empresa"></SimpleField>
+		<SimpleField type="string" name="buffer"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>tb_atvos_ucr_buf1km</name>
+		<open>1</open>
+		<Placemark id="tb_atvos_ucr.3">
+			<ExtendedData>
+				<SchemaData schemaUrl="#tb_atvos_ucr_1">
+					<SimpleData name="nome">UCR - Unidade Costa Rica - Buffer 1km</SimpleData>
+					<SimpleData name="empresa">Atvos</SimpleData>
+					<SimpleData name="buffer">1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-53.16942993132984,-18.44846986011106,0 -53.16910434169181,-18.44827200031082,0 -53.16653607772414,-18.44755808324918,0 -53.16386109016707,-18.44755846178295,0 -53.15726141469638,-18.44845838146329,0 -53.15430385800614,-18.44935171077031,0 -53.15180778445651,-18.45110966952187,0 -53.1500413468036,-18.45354341757925,0 -53.14919434241169,-18.45639150853863,0 -53.14935781323636,-18.45934796948683,0 -53.15185729000465,-18.47014814589645,0 -53.15272815148253,-18.47241476852405,0 -53.15419711673038,-18.47438030247337,0 -53.16009713651781,-18.48038051700778,0 -53.16270248656662,-18.48224785326437,0 -53.16581711827671,-18.48316154329072,0 -53.16907192348335,-18.48301331239501,0 -53.17208117906379,-18.4818207331251,0 -53.18888151867963,-18.47162024387133,0 -53.19133089391187,-18.4694714414704,0 -53.19284965990504,-18.46664658578236,0 -53.19325019700035,-18.46349473911186,0 -53.19248307514266,-18.46040534830838,0 -53.1884827573753,-18.45160556603013,0 -53.18708013728907,-18.44942842560319,0 -53.18509469672394,-18.44771337125573,0 -53.18268539169859,-18.44659770268589,0 -53.18004509850923,-18.44617073517444,0 -53.17738517840696,-18.44646665171519,0 -53.16942993132984,-18.44846986011106,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tb_atvos_uat_alvo_line.kml</name>
+	<open>1</open>
+	<Schema name="tb_atvos_uat_1" id="tb_atvos_uat_1">
+		<SimpleField type="string" name="nome"></SimpleField>
+		<SimpleField type="string" name="empresa"></SimpleField>
+		<SimpleField type="string" name="buffer"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>tb_atvos_uat_alvo</name>
+		<open>1</open>
+		<Placemark id="tb_atvos_uat.1">
+			<ExtendedData>
+				<SchemaData schemaUrl="#tb_atvos_uat_1">
+					<SimpleData name="nome">UAT - Unidade Alto Taquari</SimpleData>
+					<SimpleData name="empresa">Atvos</SimpleData>
+					<SimpleData name="buffer">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-53.3093,-17.7283,0 -53.3095,-17.7464,0 -53.32,-17.7508,0 -53.3197,-17.7283,0 -53.3143,-17.7284,0 -53.3093,-17.7283,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

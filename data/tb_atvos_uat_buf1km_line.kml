@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tb_atvos_uat_buf1km_line.kml</name>
+	<open>1</open>
+	<Schema name="tb_atvos_uat_1" id="tb_atvos_uat_1">
+		<SimpleField type="string" name="nome"></SimpleField>
+		<SimpleField type="string" name="empresa"></SimpleField>
+		<SimpleField type="string" name="buffer"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>tb_atvos_uat_buf1km</name>
+		<open>1</open>
+		<Placemark id="tb_atvos_uat.3">
+			<ExtendedData>
+				<SchemaData schemaUrl="#tb_atvos_uat_1">
+					<SimpleData name="nome">UAT - Unidade Alto Taquari - Buffer 1km</SimpleData>
+					<SimpleData name="empresa">Atvos</SimpleData>
+					<SimpleData name="buffer">1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-53.30949679417402,-17.7192697753863,0 -53.30651877221051,-17.71967003780733,0 -53.30382387043764,-17.72094891232477,0 -53.30168644374345,-17.72297621181239,0 -53.30032411578452,-17.72554555061344,0 -53.29987562006081,-17.72839534915652,0 -53.3000746746086,-17.74649546793359,0 -53.30048828162214,-17.74904805568049,0 -53.30163902341031,-17.75138405938253,0 -53.30343279446554,-17.75331239579469,0 -53.30572287632353,-17.75467532467075,0 -53.31622331822145,-17.75907547859845,0 -53.31925054795605,-17.75980351487447,0 -53.32235994255923,-17.75954445277432,0 -53.3252105738698,-17.75832670269366,0 -53.3274899006989,-17.7562837867627,0 -53.32894804461032,-17.75363969194083,0 -53.32942518277905,-17.75068430447371,0 -53.32912400808191,-17.72818445576981,0 -53.32862146241856,-17.72538805177753,0 -53.32723841256141,-17.72287906735501,0 -53.3251113855444,-17.7209051212026,0 -53.32245031335481,-17.71966102301364,0 -53.31951781505543,-17.71926955322067,0 -53.31430731635779,-17.71936601618765,0 -53.30949679417402,-17.7192697753863,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

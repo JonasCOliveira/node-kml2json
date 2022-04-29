@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="tb_katrium_HG_edific_aux_1" id="tb_katrium_HG_edific_aux_1">
+            <SimpleField type="string" name="nome"/>
+            <SimpleField type="string" name="empresa"/>
+            <SimpleField type="string" name="buffer"/>
+        </Schema>
+        <Folder>
+            <name>tb_katrium_HG_edific_aux</name>
+            <Placemark id="tb_katrium_HG_edific_aux.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Planta de Situação</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36149658665842,-22.843968057961124 -43.361314941800195,-22.843934957331324 -43.36130178418346,-22.843996983140407 -43.36148342911888,-22.844030083789608 -43.36149658665842,-22.843968057961124</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Tratamento Secundário da Salmoura</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36117926599592,-22.843935588100727 -43.361128118658236,-22.843926267580628 -43.361111663922834,-22.844003835685562 -43.3611628112877,-22.844013156212476 -43.36117926599592,-22.843935588100727</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Prédio Principal</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.361128118658236,-22.843926267580624 -43.36095656014185,-22.843895004543057 -43.36092804928447,-22.844029404709108 -43.361025941133654,-22.844047243530696 -43.36103799712633,-22.8439904114371 -43.361111663922834,-22.844003835685562 -43.361128118658236,-22.843926267580624</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Depósito/Sala de Treinamento</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.360767508762365,-22.843862314480496 -43.36046313843983,-22.843806848332857 -43.36044429055185,-22.843895695808822 -43.360748661059674,-22.84395116200301 -43.360767508762365,-22.843862314480496</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Galpão - Sala dos Compressores</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36074205770903,-22.843977814607012 -43.360493491399026,-22.84393251779223 -43.360474694274004,-22.844021125962207 -43.36072254023315,-22.84406629151675 -43.36074205770903,-22.843977814607012</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Área de Recreação</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36046848161042,-22.8440015870824 -43.360076923714686,-22.843930231701435 -43.360046847875104,-22.844072004667304 -43.36043840615119,-22.844143360143807 -43.36046848161042,-22.8440015870824</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Portaria/Expedição</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36144235115481,-22.844212372327387 -43.36137264249949,-22.844199669532863 -43.36137884462844,-22.844170432310733 -43.36136396515416,-22.844167720865766 -43.3613651243888,-22.844162256162583 -43.36134042889468,-22.84412732543301 -43.36133622440256,-22.844126559259106 -43.361339224989436,-22.844112414315813 -43.3612757154552,-22.844100841120884 -43.361273090669954,-22.844112325717926 -43.36126688829075,-22.8441111954713 -43.36123092382872,-22.844132992443438 -43.36122954853586,-22.844139475628946 -43.36121094484499,-22.844136085511494 -43.361197834751586,-22.844197886939934 -43.36121369196354,-22.84420077657203 -43.36121241840785,-22.844206780156767 -43.361232748401264,-22.844235601172887 -43.36123837606889,-22.844236626691668 -43.361233544140546,-22.844259404574576 -43.36129702027198,-22.84427097169089 -43.3612953394001,-22.84427904734885 -43.36129250703543,-22.844291545609227 -43.36122915818933,-22.844279213238604 -43.361225277450814,-22.844296337576722 -43.361219664516696,-22.84429524488327 -43.36118880577501,-22.844314419737554 -43.3611874487957,-22.84432040760172 -43.36117163309229,-22.844317328688252 -43.36115766421349,-22.844378968285316 -43.361176219222145,-22.844382580471947 -43.361174753838064,-22.844389046680522 -43.361198679514665,-22.844422129532646 -43.361204865666345,-22.84442333381685 -43.36120244339054,-22.844434856575702 -43.36126578677269,-22.844447187883883 -43.36126898392333,-22.844433079981172 -43.36127317741498,-22.84443389634387 -43.361310629205775,-22.844410676792776 -43.36131186437854,-22.84440522639946 -43.361326704915804,-22.84440811545809 -43.3613333133248,-22.844378954795737 -43.36140283953736,-22.84439248968286 -43.36141767310139,-22.844327034008884 -43.36138308863716,-22.84432030134732 -43.36138490473483,-22.844312287505115 -43.36143091756024,-22.844321244958127 -43.361438183442736,-22.844288122749035 -43.36139204982957,-22.844279715967723 -43.36139375427958,-22.844271681086436 -43.36142842952734,-22.844277999847538 -43.36144235115481,-22.844212372327387</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Estacionamento</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.361020649761585,-22.84503989426416 -43.36086386694288,-22.844990373338767 -43.36081986545964,-22.845110041602403 -43.36090286817418,-22.84513625860769 -43.360880867431874,-22.845196092745788 -43.36095464767864,-22.84521939672733 -43.361020649761585,-22.84503989426416</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Área de Lazer</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.361288577349605,-22.84543802183868 -43.36123798899939,-22.845390865511533 -43.36121605671921,-22.845411076830082 -43.36126664506838,-22.845458233164102 -43.361288577349605,-22.84543802183868</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Sala de Controle da SE 138 KV</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.360644851879044,-22.845546398303654 -43.36059841816191,-22.845586213382028 -43.3606521817632,-22.845636258255052 -43.36069687448343,-22.845594556171005 -43.360644851879044,-22.845546398303654</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.11">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Baía de Resíduos</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.360570651950574,-22.845560367687206 -43.36057812227002,-22.845554368784168 -43.36053808456015,-22.845517594008797 -43.360424702836376,-22.845624936287404 -43.360463448317944,-22.84565929969894 -43.360570651950574,-22.845560367687206</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.12">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Medidores de Gás</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.360088087724904,-22.8455990470716 -43.35999581462271,-22.845683375850875 -43.36003959754524,-22.845724528996634 -43.360131870651664,-22.845640200192435 -43.360088087724904,-22.8455990470716</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.13">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Tratamento de Água</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.360020574993555,-22.845563516457347 -43.35997681622483,-22.845606139320534 -43.36000708803479,-22.845632836180584 -43.36005084680375,-22.84559021330915 -43.360020574993555,-22.845563516457347</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.14">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Eletrólise II</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.359974386089995,-22.845094502212707 -43.35993614484996,-22.84508753329712 -43.359928625776725,-22.845122976522276 -43.35996686702604,-22.845129945440164 -43.359974386089995,-22.845094502212707</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.15">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Prédio das Oficinas</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35979354285188,-22.845076618614506 -43.35974577578293,-22.84506791369506 -43.35969506565287,-22.84530694786783 -43.35974283280006,-22.84531565280695 -43.35979354285188,-22.845076618614506</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.16">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Gerência de Manutenção</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35969293058607,-22.845306558779424 -43.35977444265893,-22.844922331916333 -43.359670291001095,-22.84490335160056 -43.35958877865403,-22.845287578394736 -43.35969293058607,-22.845306558779424</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.17">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Almoxarifado</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35977654326115,-22.844922714723634 -43.359870488849694,-22.84447987624769 -43.35976425831643,-22.84446041231008 -43.359670291001095,-22.84490335160056 -43.35977654326115,-22.844922714723634</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.18">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Prédio Administrativo</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.359929775390384,-22.84420041100235 -43.359823523656196,-22.844181048011404 -43.35976425831643,-22.84446041231008 -43.35987051025401,-22.84447977535214 -43.359929775390384,-22.84420041100235</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.19">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Quadro dos Medidores de  Gás</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35994481339778,-22.84412952453741 -43.359849210977714,-22.844112102251497 -43.359834172923875,-22.844182988704752 -43.359929775390384,-22.84420041100235 -43.35994481339778,-22.84412952453741</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.20">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Vestiário das Empreiteiras</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.359849210977714,-22.844112102251497 -43.35994481339778,-22.84412952453741 -43.360038834994974,-22.843686490344684 -43.35997778844937,-22.843675454856665 -43.35996962845121,-22.843675300569558 -43.35995651679903,-22.843678502137315 -43.3599453651698,-22.84368565076748 -43.35993750665031,-22.84369589189852 -43.359849210977714,-22.844112102251497</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.21">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Refeitório</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36035602255003,-22.844486624359575 -43.36038369266445,-22.844356190720973 -43.36023409609765,-22.844328929143128 -43.36021078691157,-22.8444388053431 -43.36001420956641,-22.844402982033024 -43.35999017176947,-22.844516291822682 -43.36039859586336,-22.844590720797804 -43.360418272310994,-22.844497968340992 -43.36035602255003,-22.844486624359575</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.22">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Sala de Controle</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36030602825824,-22.84427761409527 -43.36014350388363,-22.84424799653047 -43.36013034570212,-22.844310022207587 -43.36029287014581,-22.84433963978977 -43.36030602825824,-22.84427761409527</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.23">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Forno de Desmercurização</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36040724254748,-22.844245179130507 -43.360376371647774,-22.84439070115442 -43.360477298548254,-22.84440909338227 -43.36050816934732,-22.844263571333062 -43.36040724254748,-22.844245179130507</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.24">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Depósito de Resíduos I</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36016263965305,-22.844979437952574 -43.36008615721574,-22.844965500205397 -43.360071626694015,-22.845033994257157 -43.36014810916722,-22.845047932013347 -43.36016263965305,-22.844979437952574</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.25">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Salmoura</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36018982709507,-22.845119958004307 -43.36020298535284,-22.845057932331304 -43.36014810916722,-22.845047932013347 -43.36013495088613,-22.845109957680492 -43.36018982709507,-22.845119958004307</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.26">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Salmoura</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36014810916722,-22.845047932013347 -43.36010986792837,-22.845040963139738 -43.36009670963102,-22.845102988802807 -43.36013495088613,-22.845109957680485 -43.36014810916722,-22.845047932013347</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.27">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Salmoura</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.36010986792837,-22.845040963139738 -43.360071626694015,-22.845033994257157 -43.360058468380416,-22.845096019916145 -43.36009670963102,-22.845102988802807 -43.36010986792837,-22.845040963139738</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.28">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Salmoura</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.360058468380416,-22.845096019916145 -43.36015995361006,-22.844617637098438 -43.36015995361006,-22.844617637098438 -43.3599878686021,-22.844586277139204 -43.35988638280836,-22.845064659815186 -43.360058468380416,-22.845096019916145</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.29">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Salmoura</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.3599878686021,-22.844586277139204 -43.3599496275016,-22.844579308234724 -43.35987069883634,-22.844951361215198 -43.35990894003434,-22.84495833014417 -43.3599878686021,-22.844586277139204</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.30">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Salmoura</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35990894003434,-22.84495833014417 -43.359847276104794,-22.844947092741755 -43.35982471883389,-22.84505342240146 -43.35988638280836,-22.845064659815186 -43.35990894003434,-22.84495833014417</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.31">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Galpão de Pintura</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35943814267508,-22.845230671637054 -43.35939290304262,-22.845222427211407 -43.3593825322735,-22.845271311669336 -43.35942777192112,-22.845279556098788 -43.35943814267508,-22.845230671637054</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.32">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Área de Estocagem de Sulfeto de Sódio</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35950707888788,-22.84504231284498 -43.359458823330165,-22.845033518813047 -43.35943971155219,-22.845123605913404 -43.359425385685476,-22.845120995181915 -43.3594345711991,-22.845077697507143 -43.35935389395189,-22.845062994943103 -43.35934470841432,-22.845106292611867 -43.3592843889699,-22.845095300009582 -43.35926927723603,-22.845166531643592 -43.35947285550519,-22.845203631611785 -43.35950707888788,-22.84504231284498</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.33">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Sala dos Painéis</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35916899394815,-22.8450060192789 -43.35914091521539,-22.845000902185074 -43.35913659753472,-22.84502125420386 -43.359164676271405,-22.845026371298673 -43.35916899394815,-22.8450060192789</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.34">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Depósito de Papelão</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35924304906859,-22.845084745064995 -43.359181886410106,-22.845074939797335 -43.35917527688588,-22.845115066180984 -43.35923407243366,-22.845125720847097 -43.35924304906859,-22.845084745064995</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.35">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Almoxarifado</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35931521661677,-22.844641816681843 -43.359265025212565,-22.84463266978216 -43.359251114666684,-22.844698239676923 -43.35930130609344,-22.844707386582243 -43.35931521661677,-22.844641816681843</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.36">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Sala de Painéis</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35911588552588,-22.84472848878757 -43.35908246723892,-22.844734752549925 -43.359063379736156,-22.844761412693355 -43.35907040754983,-22.844762693454086 -43.359067063528364,-22.844778455985843 -43.35906962072186,-22.844790175719677 -43.35908594315197,-22.84480253425077 -43.359099010488606,-22.844810570959144 -43.35912965691131,-22.844804826742887 -43.35913289465223,-22.844804219876124 -43.35915198214865,-22.844777559723916 -43.35914515650449,-22.844746117269562 -43.35911588552588,-22.84472848878757</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.37">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Castelo D'Água</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.358930258480086,-22.844740758191094 -43.35887359996882,-22.844730432584978 -43.358866559891524,-22.8447636167852 -43.35892321841568,-22.84477394239454 -43.358930258480086,-22.844740758191094</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.38">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Galpão do Cloro</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35895333748457,-22.844651669633567 -43.358784505244834,-22.844620901120745 -43.3587749603936,-22.844665891756566 -43.35894379268538,-22.84469666028247 -43.35895333748457,-22.844651669633567</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.39">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Casa de Bombas</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.359117073423185,-22.843822388665046 -43.35892075799222,-22.843786611573275 -43.35874527953688,-22.84461375247831 -43.358941596080456,-22.84464952984972 -43.359063965136734,-22.844072724529536 -43.35896836290411,-22.844055301723145 -43.35896786363835,-22.844054109919007 -43.358964607261676,-22.844053516467117 -43.35896535922372,-22.84404997197264 -43.35896861560031,-22.84405056542451 -43.358978767270266,-22.8440027138626 -43.35897566710156,-22.844002148878598 -43.35897641906295,-22.84399860438401 -43.358979519231575,-22.843999169368 -43.35898972655397,-22.843951055435884 -43.35898662638636,-22.843950490452162 -43.358987378347095,-22.84394694595746 -43.358990478514635,-22.843947510941167 -43.35900004799013,-22.843902403568258 -43.35909761364168,-22.84391411612041 -43.359117073423185,-22.843822388665046</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.40">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Hipoclorito/Cloro Líquido/Estocagem</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35914815799344,-22.84407023657627 -43.35915077774744,-22.844057887862768 -43.359114270922255,-22.844051234788797 -43.35909524321084,-22.844140925387986 -43.359121405060414,-22.844145693175754 -43.35911624910507,-22.844171675337112 -43.35912609953566,-22.844173470498177 -43.359131533169396,-22.84414753894132 -43.35913304809292,-22.84414781502379 -43.35914305824222,-22.844149639291416 -43.35915946617121,-22.84407229739857 -43.35914815799344,-22.84407023657627</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.41">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Ampliação da Oficina de Revestimento</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.359788060862336,-22.843944216294748 -43.35939643783874,-22.843872847285294 -43.359373779659144,-22.843979652011992 -43.35976540296933,-22.844051021093442 -43.359788060862336,-22.843944216294748</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.42">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Tanques de Descontaminação de Embalagens</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.3597558427345,-22.844049278857018 -43.35939255401927,-22.843983073458006 -43.35937176667817,-22.844081059429136 -43.3597350556373,-22.844147264889447 -43.3597558427345,-22.844049278857018</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.43">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Eletrólise I</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35968957366462,-22.84440846389648 -43.35929560495492,-22.84433666732181 -43.35925661766689,-22.84452673780393 -43.35964930087337,-22.84459830014296 -43.35968957366462,-22.84440846389648</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.44">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Sala dos Compressores</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.359595138910244,-22.843514104650218 -43.359485909038,-22.843494198624445 -43.35942413696135,-22.843785377574118 -43.35953336705152,-22.843805283654643 -43.359595138910244,-22.843514104650218</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.45">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Casa de Força/Tratamento de Água</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.359485909038,-22.843494198624445 -43.35901058132347,-22.843407469289357 -43.35894880829857,-22.84369864800074 -43.3591366398135,-22.843732878945115 -43.35914885847076,-22.843675283767332 -43.35924446047125,-22.843692706451915 -43.359232241851714,-22.843750301639208 -43.35942413696135,-22.843785377574118 -43.359485909038,-22.843494198624445</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.46">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Concentradores de Potassa Cáustica</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35901058132347,-22.843407469289357 -43.35891740946013,-22.843390489311748 -43.35885563624936,-22.843681667976405 -43.35894880829857,-22.84369864800074 -43.35901058132347,-22.843407469289357</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.47">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Garagem de Empilhadeira</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35882514480076,-22.84335967685432 -43.358675684564304,-22.843334012967784 -43.35866921214471,-22.843364521654255 -43.358818350816996,-22.84339170144292 -43.35882514480076,-22.84335967685432</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.48">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Sala dos Motoristas</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35841883275996,-22.843310311156614 -43.35828451252358,-22.843285831601328 -43.35826825189036,-22.84336247738104 -43.35840257219728,-22.843386956954063 -43.35841883275996,-22.843310311156614</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.49">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Ampliação da Oficina de Revestimento</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.358827672851966,-22.843767920681742 -43.35872729077128,-22.843749626598722 -43.35871601184112,-22.843802791338017 -43.35881639395837,-22.843821085430235 -43.358827672851966,-22.843767920681742</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="tb_katrium_HG_edific_aux.50">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#tb_katrium_HG_edific_aux_1">
+                        <SimpleData name="nome">Escritórios</SimpleData>
+                        <SimpleData name="empresa">Katrium Indústrias Químicas S.A.</SimpleData>
+                        <SimpleData name="buffer">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-43.35872729077128,-22.843749626598722 -43.35866839249877,-22.843738892680566 -43.358539158721925,-22.844348049118505 -43.358698439739925,-22.84437707728676 -43.35881512573678,-22.84382706337889 -43.35873761660304,-22.843812937768615 -43.358738884827794,-22.843806959820746 -43.35871601184112,-22.843802791338017 -43.35872729077128,-22.843749626598722</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,19 @@
+{
+  "name": "kml2json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Cauan",
+  "license": "ISC",
+  "dependencies": {
+    "@tmcw/togeojson": "^4.7.0",
+    "aws": "^0.0.3-2",
+    "aws-sdk": "^2.1113.0",
+    "json-concat": "^0.0.1",
+    "kml-to-json": "^1.1.1",
+    "xmldom": "^0.6.0"
+  }
+}

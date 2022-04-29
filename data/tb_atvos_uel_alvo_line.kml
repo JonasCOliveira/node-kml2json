@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tb_atvos_uel_alvo_line.kml</name>
+	<open>1</open>
+	<Schema name="tb_atvos_uel_1" id="tb_atvos_uel_1">
+		<SimpleField type="string" name="nome"></SimpleField>
+		<SimpleField type="string" name="empresa"></SimpleField>
+		<SimpleField type="string" name="buffer"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>tb_atvos_uel_alvo</name>
+		<open>1</open>
+		<Placemark id="tb_atvos_uel.1">
+			<ExtendedData>
+				<SchemaData schemaUrl="#tb_atvos_uel_1">
+					<SimpleData name="nome">UEL - Unidade Eldorado</SimpleData>
+					<SimpleData name="empresa">Atvos</SimpleData>
+					<SimpleData name="buffer">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-54.01130000000001,-21.8643,0 -54.01600000000001,-21.8715,0 -54.0184,-21.8702,0 -54.0202,-21.8692,0 -54.0259,-21.866,0 -54.0259,-21.866,0 -54.0292,-21.8641,0 -54.0245,-21.8568,0 -54.0213,-21.8586,0 -54.0213,-21.8586,0 -54.01799999999999,-21.8605,0 -54.01799999999999,-21.8605,0 -54.01130000000001,-21.8643,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

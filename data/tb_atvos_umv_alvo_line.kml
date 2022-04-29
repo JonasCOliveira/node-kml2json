@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tb_atvos_umv_alvo_line.kml</name>
+	<open>1</open>
+	<Schema name="tb_atvos_umv_1" id="tb_atvos_umv_1">
+		<SimpleField type="string" name="nome"></SimpleField>
+		<SimpleField type="string" name="empresa"></SimpleField>
+		<SimpleField type="string" name="buffer"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>tb_atvos_umv_alvo</name>
+		<open>1</open>
+		<Placemark id="tb_atvos_umv.1">
+			<ExtendedData>
+				<SchemaData schemaUrl="#tb_atvos_umv_1">
+					<SimpleData name="nome">UMV - Unidade Morro Vermelho</SimpleData>
+					<SimpleData name="empresa">Atvos</SimpleData>
+					<SimpleData name="buffer">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-53.0538,-17.7135,0 -53.0302,-17.7137,0 -53.0303,-17.7283,0 -53.0541,-17.7283,0 -53.0538,-17.7135,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

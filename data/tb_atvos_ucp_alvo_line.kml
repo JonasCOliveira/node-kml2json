@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tb_atvos_ucp_alvo_line.kml</name>
+	<open>1</open>
+	<Schema name="tb_atvos_ucp_1" id="tb_atvos_ucp_1">
+		<SimpleField type="string" name="nome"></SimpleField>
+		<SimpleField type="string" name="empresa"></SimpleField>
+		<SimpleField type="string" name="buffer"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>tb_atvos_ucp_alvo</name>
+		<open>1</open>
+		<Placemark id="tb_atvos_ucp.1">
+			<ExtendedData>
+				<SchemaData schemaUrl="#tb_atvos_ucp_1">
+					<SimpleData name="nome">IND+MAN+ADM/UCP - Unidade Conquista do Pontal</SimpleData>
+					<SimpleData name="empresa">Atvos</SimpleData>
+					<SimpleData name="buffer">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-52.1016,-22.4109,0 -52.1168,-22.403,0 -52.115,-22.397,0 -52.09340000000001,-22.3957,0 -52.1016,-22.4109,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

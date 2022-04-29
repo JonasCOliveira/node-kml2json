@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tb_armazem_bracell_alvo_line.kml</name>
+	<open>1</open>
+	<Schema name="tb_armazem_bracell_1" id="tb_armazem_bracell_1">
+		<SimpleField type="string" name="nome"></SimpleField>
+		<SimpleField type="string" name="empresa"></SimpleField>
+		<SimpleField type="string" name="buffer"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>tb_armazem_bracell_alvo</name>
+		<open>1</open>
+		<Placemark id="tb_armazem_bracell.1">
+			<ExtendedData>
+				<SchemaData schemaUrl="#tb_armazem_bracell_1">
+					<SimpleData name="nome">Armazém de Celulose Bracell</SimpleData>
+					<SimpleData name="empresa">Obra Consórcio BRi9</SimpleData>
+					<SimpleData name="buffer">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-46.29402816798388,-23.97486335391034,0 -46.30005145134448,-23.96754795132437,0 -46.2992359966588,-23.96698053121499,0 -46.2932341036011,-23.97429694806281,0 -46.29402816798388,-23.97486335391034,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
